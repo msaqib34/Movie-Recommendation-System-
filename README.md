@@ -1,6 +1,9 @@
+### Dataset
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data
+
 ### Movie Recommendation System
 
-This project implements a movie recommendation system using a dataset of 40,000 movies. The system merges multiple files, cleans the data, extracts necessary information, and employs various techniques to recommend movies based on their similarity.
+This project implements a movie recommendation system using a dataset of 45,000 movies. The system merges multiple files, cleans the data, extracts necessary information, and employs various techniques to recommend movies based on their similarity.
 
 #### Data Preparation:
 
