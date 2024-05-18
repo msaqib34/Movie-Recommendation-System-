@@ -1,3 +1,6 @@
+### Deployed 
+https://nsth-recommendations-3f400cc084e9.herokuapp.com/
+
 ### Dataset
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data
 
